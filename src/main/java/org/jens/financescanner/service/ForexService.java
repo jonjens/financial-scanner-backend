@@ -35,7 +35,7 @@ public class ForexService {
                 result.append(line);
             }
             reader.close();
-            System.out.println("Test");
+            System.out.println("");
             return result.toString();
         }
 
